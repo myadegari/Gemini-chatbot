@@ -1,6 +1,9 @@
+import HomePage from "@/routes/homePage"
 const App = () => {
   return (
-    <div>Hello World</div>
+    <div>Hello World
+<HomePage/>
+    </div>
   )
 }
 
